@@ -1,0 +1,22 @@
+// Creo un objeto (tambien llamado array asociativo | En python se los llama diccionarios) 
+let productosBelleza1= {
+    nombre:"Aceite Facial Antioxidante",
+    marca: "Carpe Diem",
+    modo de uso:"Aplicar de 1 a 2 gotas sobre el rostro limpio. Con las manos higienizadas, distribuir sobre frente, mejillas, barbilla y cuello. Masajear con la yema de los dedos.",
+    precio: 37000
+};
+
+let productosBelleza2={
+    nombre:"Crema Corporal.Body Milk.",
+    marca: "Carpe Diem",
+    modo de uso:"Aplicar en todo el cuerpo la cantidad suficiente según necesidad. Masajear suavemente sobre la piel limpia hasta su completa absorción. Se recomienda su uso después del baño o la ducha, hasta dos veces al día.",
+    precio: 35000
+};
+
+let productosBelleza3={
+    nombre:"Crema Corporal.Body Milk.",
+    marca: "Carpe Diem",
+    modo de uso:"Aplicar en todo el cuerpo la cantidad suficiente según necesidad. Masajear suavemente sobre la piel limpia hasta su completa absorción. Se recomienda su uso después del baño o la ducha, hasta dos veces al día.",
+    precio: 35000
+};
+
