@@ -1,4 +1,4 @@
-class productosBelleza = {
+class productosBelleza {
    constructor (nombre, marca, modoDeUso, precio){
         this.nombre=nombre;
         this.marca=marca;
